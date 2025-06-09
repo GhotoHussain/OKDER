@@ -1,0 +1,17 @@
+python install 3.9
+pytorch-lightning
+cuda-11-8
+huggingface
+numpy>=1.23.5 
+pandas>=2.0.3 
+matplotlib>=3.7.2 
+seaborn>=0.12.2 
+plotly>=5.15.0 
+nltk>=3.8.1 
+scikit-learn>=1.2.2 
+torch>=2.0.1 
+transformers>=4.31.0 
+tqdm>=4.65.0
+Bert-base-uncased
+Distilbert-uncased
+AlBERT-uncased
